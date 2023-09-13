@@ -1,6 +1,6 @@
 # Welcome to Furrmidable Crew
 
-![](/profile/logo-senape.png)
+![](/profile/assets/logo/logo-senape.png)
 
 ## Who We Are
 We are a passionate group of developers and dedicated core contributors united by a common purpose: to propel The Cheshire Cat AI project to new heights. Committed to the principles of open source, we collaborate tirelessly to create innovative plugins that empower the project's evolution.
